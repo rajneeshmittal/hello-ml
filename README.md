@@ -1,2 +1,2 @@
 # hello-ml
-my ml playground
+# my ml and python playground
